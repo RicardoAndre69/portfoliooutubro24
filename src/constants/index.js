@@ -101,7 +101,7 @@ const experiences = [
     points: [
       "Desenvolvendo e Gerenciando aplicações usando React.js e outras tecnologias relacionadas.",
       "Colaborando com time multifuncional.",
-      "Implementando designs responsivos e garantir compatibilidade entre navegadores.",
+      "Implementando designs responsivos e garantindo compatibilidade entre navegadores.",
       "Revisando códigos e fornecendo feedback para outros devs.",
     ],
   },
