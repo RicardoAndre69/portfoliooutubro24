@@ -41,9 +41,9 @@ const About = () => {
       variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Sou o Ricardo André, tenho 18 anos e sou estudante de ti desde 2022. Começei a aprender através de alguns cursos e
-        vídeos no YouTube. Em 2023 entre no colégio técnico chamado COTEMIG, aprimorando e aprofundando os meus conhecimentos
-        de programação, estudando backend e frontend. Desde então, continuo aprendendo e realizando alguns projetos.
+        Sou o Ricardo André, tenho 18 anos e sou estudante de TI desde 2022. Iniciei o aprendizado através de alguns cursos e
+        vídeos no YouTube. Em 2023 entrei no colégio técnico chamado COTEMIG, aprimorando e aprofundando os meus conhecimentos
+        de programação, estudando backend e frontend. Desde então, continuo aprendendo e desenvolvendo projetos.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
